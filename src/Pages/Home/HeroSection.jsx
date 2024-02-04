@@ -10,7 +10,6 @@ export default function HeroSection() {
                 <span className='hero--section--title--color'>
                 Web
                 </span>{' '}
-            
                 Developer
             </h1>
             <p className='hero--section--description'>Lorem ipsum, 
