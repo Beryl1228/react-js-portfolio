@@ -84,7 +84,7 @@ export default function NavBar() {
                       smooth={true}
                       offset={-70}
                       duration={500}
-                      to="Testimonials"
+                      to="testimonial"
                       className="navbar--content"
                 > Testimonials
                 </Link>
@@ -97,7 +97,7 @@ export default function NavBar() {
              smooth={true}
              offset={-70}
              duration={500}
-             to="Testimonials"
+             to="Contact"
              className="btn btn-outline-primary">Contact Me
         </Link>
     </nav>
